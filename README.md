@@ -36,10 +36,6 @@
 
 
 
-### 📊 My GitHub Stats
-
-![miichae1's GitHub stats](https://github-readme-stats.vercel.app/api?username=miichae1&show_icons=true&theme=blue-green)
-
 
 
 #
