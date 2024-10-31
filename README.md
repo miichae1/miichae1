@@ -22,7 +22,7 @@
 #### Developer Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-023E84?style=for-the-badge&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-A6A9AA?style=for-the-badge&logo=git&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-777BB4?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6431EA?style=for-the-badge&logo=vite&logoColor=white)
